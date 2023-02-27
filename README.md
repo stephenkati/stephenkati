@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Javascript, Laravel, css, html**
 
-- 📫 How to reach me **stephenkatuli88@gmail.com**
-
 - ⚡ Fun fact **I am very passionate about programming and web design**
 
 <h3 align="left">Connect with me:</h3>
