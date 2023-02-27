@@ -1,13 +1,13 @@
 ![Header](./github-header-image-900-width.png)
 <h1 align="center">Hi 👋, I'm Stephen Katuli</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate Full-Stack developer from Kenya</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif" alt="coding">
 
 <p align="left"> <a href="https://twitter.com/@stephen57913145" target="blank"><img src="https://img.shields.io/twitter/follow/@stephen57913145?logo=twitter&style=for-the-badge" alt="@stephen57913145" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Ruby on rails**
+- 🌱 I’m currently learning **React, Redux, Ruby, Rails**
 
-- 💬 Ask me about **Laravel, Javascript, css, html**
+- 💬 Ask me about **Javascript, Laravel, css, html**
 
 - 📫 How to reach me **stephenkatuli88@gmail.com**
 
@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@stephen57913145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@stephen57913145" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stephen-katuli-a92752251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen-katuli-a92752251" height="30" width="40" /></a>
-<a href="https://instagram.com/@katuli_arts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@katuli_arts" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/stephen-katuli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen-katuli-a92752251" height="30" width="40" /></a>
+<a href="https://instagram.com/@stephenkatuli88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@stephenkatuli88" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@stephenkatuli88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@stephenkatuli88" height="30" width="40" /></a>
 </p>
 
