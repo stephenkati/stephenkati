@@ -1,4 +1,3 @@
-![Header]()
 <h1 align="center">Hi 👋, I'm Stephen Katuli</h1>
 <h3 align="center">A passionate Full-Stack developer from Kenya</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif" alt="coding">
