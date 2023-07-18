@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/@stephen57913145" target="blank"><img src="https://img.shields.io/twitter/follow/@stephen57913145?logo=twitter&style=for-the-badge" alt="@stephen57913145" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux, Ruby, Rails**
+- 🌱 I’m currently learning **Three Js**
 
-- 💬 Ask me about **Javascript, Laravel, css, html**
+- 💬 Ask me about **Ruby on Rails, React, Javascript**
 
 - ⚡ Fun fact **I am very passionate about programming and web design**
 
